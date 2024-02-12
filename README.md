@@ -1,4 +1,4 @@
-# Belajar CRUD PHP MySQL WPU Dasar
+# Belajar CRUD PHP MySQL Dasar
 
 Ini adalah repositori untuk latihan membuat aplikasi CRUD sederhana menggunakan PHP dan MySQL, berdasarkan tutorial dari Web Programming Unpas (WPU).
 
